@@ -1,0 +1,23 @@
+.intro {  
+padding: 60px;  
+margin-bottom: 30px;  
+background-image: url('/twitter-bootstrap/images/gridbg.gif');  
+background-repeat:repeat;  
+-webkit-border-radius: 6px;  
+-moz-border-radius: 6px;  
+border-radius: 6px;  
+}  
+
+.intro h1 {  
+margin-top: 100;
+font-size: 40px;  
+margin-bottom: 5px;  
+line-height: 1;  
+letter-spacing: -1px;  
+color:#FF6600;  
+}  
+.intro p {  
+font-size: 18px;  
+font-weight: 200;  
+line-height: 27px;  
+} 
