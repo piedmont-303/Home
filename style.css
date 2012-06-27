@@ -30,17 +30,18 @@ top:380px;
 	padding-top: 20px;
 }
 
-.intro h1 {  
+.carousel-caption h1 {  
 margin-top: 100;
 font-size: 40px;  
 margin-bottom: 5px;  
 line-height: 1;  
 letter-spacing: -1px;  
-color:#FF6600;  
+color:#FFFFFF;  
 }  
-.intro p {  
+.carousel-caption p {  
 font-size: 18px;  
 font-weight: 200;  
 line-height: 27px;  
+color:#FFFFFF;
 } 
 
