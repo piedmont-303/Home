@@ -1,12 +1,34 @@
+body {  
+padding-bottom: 40px;  
+background-repeat:no-repeat;
+
+}  
+
+.headerBackground {
+	background-image: url('bootstrap/img/background.jpeg');
+	background-size: 100%;
+	background-position:center 20%; 
+	height: 500px;
+	
+}
+
 .intro {  
-padding: 60px;  
-margin-bottom: 30px;  
-background-image: url('/twitter-bootstrap/images/gridbg.gif');  
+padding: 12px;  
+background-image: url('bootstrap/img/gridbg.gif');  
 background-repeat:repeat;  
 -webkit-border-radius: 6px;  
 -moz-border-radius: 6px;  
-border-radius: 6px;  
+border-radius: 6px;
+
+position: relative;
+top:300px;
 }  
+
+.people {
+	text-align: center;
+	padding-left: 100px;
+	padding-top: 20px;
+}
 
 .intro h1 {  
 margin-top: 100;
@@ -21,3 +43,4 @@ font-size: 18px;
 font-weight: 200;  
 line-height: 27px;  
 } 
+
