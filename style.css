@@ -1,11 +1,5 @@
 body {  
 padding-bottom: 40px;  
-<<<<<<< HEAD
-=======
-background-image: url('/bootstrap/img/background.jpeg');
-background-size: 100%;
-
->>>>>>> test
 background-repeat:no-repeat;
 
 }  
@@ -27,7 +21,7 @@ background-repeat:repeat;
 border-radius: 6px;
 
 position: absolute;
-bottom: 190px;
+bottom: 40%;
 }  
 
 .people {
