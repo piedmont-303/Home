@@ -45,3 +45,14 @@ line-height: 27px;
 color:#FFFFFF;
 } 
 
+.span3 {
+
+overflow: hidden;
+
+}
+
+.thumbnail{
+	max-height: 200px;
+}
+
+
