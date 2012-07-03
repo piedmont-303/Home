@@ -55,4 +55,13 @@ overflow: hidden;
 	max-height: 200px;
 }
 
+.carousel .item{
+	height: 600px;
+}
+
+.carousel .item .img{
+	margin-right: auto;
+	margin-left: auto;
+}
+
 
